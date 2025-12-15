@@ -27,11 +27,9 @@ The project is divided into four main analytical units:
     * `Mlxtend` (Association Rule Mining)
 
 ## 📂 Dataset
-The dataset (`OTT_Data_500_Rows.csv`) contains 13 features including:
-* `Weekday_Hours` / `Weekend_Hours`
-* `Monthly_Spend`
-* `Sleep_Effect` (Likert Scale 1-5)
-* `Genres` (Multi-select)
+The primary dataset used for this analysis contains 500 rows of student response data. You can access and download the full CSV file from the link below:
+
+👉 **[Download Dataset (Google Drive)](https://drive.google.com/drive/folders/1k3S-LHsUP1xNp_zgT3TehVyGTLo8pTno?usp=sharing)**
 
 ## 🚀 How to Run
 1.  **Clone the repository:**
